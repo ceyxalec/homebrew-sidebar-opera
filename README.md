@@ -3,7 +3,7 @@
 # Homebrew Sidebar for Opera
 I make use of the macOS/Linux package manager ‘[Homebrew](https://brew.sh)’ a fair amount. Whether that's looking up something in the [docs](https://docs.brew.sh/), tracking down a [formula](https://formulae.brew.sh/formula/) or just checking out a new [app](https://formulae.brew.sh/cask/).
 
-By looking to save on jumping in and out of windows (no doubt, all of about 10 seconds!), a standard little sidebar for [Opera Browser](https://www.opera.com), forked from ‘[Sidebar Extension Boilerplate](https://github.com/da2x/opera-extension-sidebar-boilerplate)’, cropped up on this nondescript little corner of Github. 
+By looking to save on jumping in and out of windows (no doubt, all of about 10 seconds!), a standard little sidebar for [Opera Browser](https://www.opera.com), forked from ‘[Sidebar Extension Boilerplate](https://github.com/da2x/opera-extension-sidebar-boilerplate)’, cropped up on this nondescript corner of Github. 
 
 Made solely for convenience. Why not have a go at making one yourself?
 
