@@ -1,14 +1,14 @@
 {
   "extName": {
     "description": "Extension name.",
-    "message": "Sidebar extension name"
+    "message": "Homebrew Opera Sidebar"
   },
   "extDescription": {
     "description": "Description of extension functionality.",
-    "message": "Boilerplate for Opera sidebar extensions. This is the description."
+    "message": "Sidebar for the Homebrew Package Manager"
   },
   "extPanelURL": {
     "description": "Extension URL.",
-    "message": "http://www.example.com/?lang=en"
+    "message": "https://www.brew.sh"
   }
 }
