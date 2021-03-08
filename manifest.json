@@ -1,21 +1,21 @@
 {
   "default_locale": "en",
-  "description": "__MSG_extDescription__",
+  "description": "Sidebar for the Homebrew Package Manager",
   "icons": {
-    "128": "icons/128.png",
-    "19": "icons/19.png",
-    "38": "icons/38.png",
-    "48": "icons/48.png"
+    "128": "https://raw.githubusercontent.com/ceyxalec/opera-extension-sidebar-boilerplate/master/icons/128.png",
+    "19": "https://raw.githubusercontent.com/ceyxalec/opera-extension-sidebar-boilerplate/master/icons/19.png",
+    "38": "https://raw.githubusercontent.com/ceyxalec/opera-extension-sidebar-boilerplate/master/icons/38.png",
+    "48": "https://raw.githubusercontent.com/ceyxalec/opera-extension-sidebar-boilerplate/master/icons/48.png"
   },
   "manifest_version": 2,
-  "name": "__MSG_extName__",
+  "name": "Homebrew Opera Sidebar",
   "sidebar_action": {
     "default_icon": {
-      "19": "icons/19.png",
-      "38": "icons/38.png"
+      "19": "https://raw.githubusercontent.com/ceyxalec/opera-extension-sidebar-boilerplate/master/icons/19.png",
+      "38": "https://raw.githubusercontent.com/ceyxalec/opera-extension-sidebar-boilerplate/master/icons/38.png"
     },
-    "default_panel": "sidebar.html",
-    "default_title": "__MSG_extName__"
+    "default_panel": "https://raw.githubusercontent.com/ceyxalec/opera-extension-sidebar-boilerplate/master/sidebar.html",
+    "default_title": "Homebrew Opera Sidebar"
   },
   "version": "1.0.0"
 }
